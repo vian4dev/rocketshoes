@@ -21,7 +21,7 @@
   <img src="https://www.rocketseat.com.br/assets/logos/ignite-reduced.svg" width="150" height="150" alt="Ignite">
 </div>
 
-# Ignite Time
+# Rocketshoes
 
 ## ✒️ Descrição
 _(Em breve)_
